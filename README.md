@@ -1,3 +1,5 @@
+RU
+
 Roblox Purchase checker 💸
 📝 Описание
 Скрипт для отслеживания и подсчета покупок в Roblox с использованием вашего .ROBLOSECURITY cookie.
@@ -47,6 +49,8 @@ MIT License
 🐛 Баги и предложения
 Открывайте Issues в репозитории GitHub
 
+==============================================================================================
+ENG
 
 Roblox Purchase checker 💸 📝 Description A script for tracking and counting purchases in Roblox using your .ROBLOSECURITY cookie. 🚀 Opportunities
 
